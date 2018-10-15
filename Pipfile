@@ -23,6 +23,7 @@ coverage = "*"
 watchdog = "*"
 "flake8" = "*"
 faker = "*"
+yapf = "*"
 
 [requires]
 python_version = "3.6"
