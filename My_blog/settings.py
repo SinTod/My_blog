@@ -8,8 +8,6 @@ import os
 
 basedir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 
-print(basedir)
-
 prefix = 'sqlite:////'
 
 SECRET_KEY = os.getenv('SECRET_KEY')
