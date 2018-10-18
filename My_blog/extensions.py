@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-'''
+"""
  * @Author: SinTod
  * @Date: 2018-10-17 17:41:37
  * @Desc:
-'''
+"""
 from flask_bootstrap import Bootstrap
 from flask_ckeditor import CKEditor
 from flask_mail import Mail

@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-'''
+"""
  * @Author: SinTod
  * @Date: 2018-10-15 17:14:19
  * @Desc:
-'''
+"""
 import os
 
 import click

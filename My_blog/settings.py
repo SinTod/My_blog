@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-'''
+"""
  * @Author: SinTod
  * @Date: 2018-10-15 17:14:46
  * @Desc:
-'''
+"""
 import os
 
 basedir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
